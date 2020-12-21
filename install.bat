@@ -1,0 +1,1 @@
+copy memPVP.zip C:\MCLDownload\Game\.minecraft\resourcepacks
